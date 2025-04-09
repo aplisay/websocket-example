@@ -1,0 +1,16 @@
+{
+  "name": "llm-agent-examples",
+  "version": "1.0.0",
+  "description": "Examples for using the LLM Agent API",
+  "main": "websocket-monitor.js",
+  "scripts": {
+    "start": "node websocket-test.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.2",
+    "dotenv": "^16.3.1",
+    "node-microphone": "^0.1.6",
+    "speaker": "^0.5.5",
+    "ws": "^8.14.2"
+  }
+}
